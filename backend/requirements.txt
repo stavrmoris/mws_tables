@@ -1,0 +1,10 @@
+requests
+telethon
+dotenv
+fastapi
+uvicorn
+google-api-python-client
+vk_api
+aiogram
+pandas
+bs4
